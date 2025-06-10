@@ -1,18 +1,3 @@
-# 👋 ¡Hola! Soy Javier Sabadell
-
-Soy un desarrollador Full Stack junior en constante aprendizaje. Me apasiona la tecnología, la programación y construir aplicaciones útiles y bien estructuradas.
-
----
-
-## 🧠 Sobre mí
-
-- 📍 Desde Madrid, España 🇪🇸  
-- 🌍 Realicé mis prácticas profesionales en **SMS Engineering (Italia)**  
-- 🗣️ Trabajo fluido en inglés (comunicación, documentación y presentaciones técnicas)  
-- 👥 Me encanta trabajar en equipo y seguir aprendiendo de otros desarrolladores  
-- 🧩 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-
-
 # 👋 Hi there! I'm Javier Sabadell
 
 I'm a junior Full Stack Developer passionate about technology, learning, and building useful and well-structured applications.
@@ -60,16 +45,6 @@ I'm a junior Full Stack Developer passionate about technology, learning, and bui
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
----
-
-## 💼 Recent Experience
-
-**SMS Engineering (Naples, Italy)**  
-*Full Stack Developer Intern* – Mar 2025 to Jun 2025  
-Developed a job portal (Aria RD) using Angular and Spring Boot.  
-Handled both frontend features and backend integration via REST APIs.  
-Worked in a collaborative, agile environment with full English communication.
 
 ---
 
