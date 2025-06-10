@@ -50,7 +50,7 @@ I'm a junior Full Stack Developer passionate about technology, learning, and bui
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier%20Sabadell-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/tu-usuario/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier%20Sabadell-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/jsabamont/)  
 [![Gmail](https://img.shields.io/badge/Gmail-sabadellmonterojavier@gmail.com-red?logo=gmail)](mailto:sabadellmonterojavier@gmail.com)
 
 ---
